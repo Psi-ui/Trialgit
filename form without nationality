@@ -18,16 +18,7 @@
     <label for="last name">Last Name:</label><br>
     <input type="text" name="last name">
     </p>
-	
-    <p>Gender:<br>
-    <input type="radio" name="gender" id="male" value="male" checked>
-    <label for="male">Male</label><br>
-    <input type="radio" name="gender" id="female" value="female">
-    <label for="female">Female</label><br>
-    <input type="radio" name="gender" id="other" value="other">
-    <label for="other">Other</label><br>
-    </p>
-  
+	 
     <p>Language Spoken:<br>
     <input type="checkbox" name="language" id="bahasa indonesia" value="bahasa indonesia">
     <label for="bahasa indonesia">Bahasa Indonesia</label><br>
